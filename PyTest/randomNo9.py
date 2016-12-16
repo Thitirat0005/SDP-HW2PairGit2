@@ -25,3 +25,4 @@ for y in range(1):
     mes2 = mes2 + str(randint(0,9))
 mes2 = mes2 + "9"
 print "Last 2 digits Lotto number is >> %s <<" % mes2
+print "by Pro<<"
