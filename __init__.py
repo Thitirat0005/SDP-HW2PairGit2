@@ -1,4 +1,7 @@
+#!/usr/bin/python
+
 from random import randint
 
-for num in range(0,100):
-    print(randint(0,9))
+
+for x in range(6):
+    print str(randint(0,9))
