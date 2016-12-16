@@ -18,3 +18,7 @@ for x in range(4):
     mes1.append(mes2)
     mes2 = ""
 print "Lotto number is >> %s <<" % mes1
+
+for y in range(2):    
+    mes2 = mes2 + str(randint(0,9))
+print "Lotto number is >> %s <<" % mes2
